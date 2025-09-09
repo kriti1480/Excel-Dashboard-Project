@@ -1,4 +1,4 @@
-📊 E-Commerce Sales Analysis Dashboard (Excel Project)
+#📊 E-Commerce Sales Analysis Dashboard (Excel Project)
 📌 Overview
 
 An interactive Excel dashboard analyzing E-Commerce Sales & Profit trends using Pivot Tables, Charts, and Slicers. This project tracks KPIs, category performance, and regional insights to support business decision-making.
